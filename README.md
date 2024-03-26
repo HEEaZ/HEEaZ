@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **do.u.noe.imm@gmail.com**
 
+- 📄 Know about my experiences [Resume](Immanuel_Chia_Qi_Xiang_Resume.pdf)
+
 - ⚡ Fun fact **I enjoy competitive programming as a hobby**
 
 <h3 align="left">Connect with me:</h3>
