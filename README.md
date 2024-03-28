@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Immanuel</h1>
 <h3 align="center">Computer Science Undergraduate with an interest in backend development</h3>
-<img align="right" alt="cartoonImage" width="400" src="cartoonme.jpg">
+<img align="right" alt="cartoonImage" width="300" src="cartoonme.jpg">
 
 👩🏻‍💻 Computer Science undergraduate (Year 2) from National University of Singapore (NUS) <br>
 📄 Know more about my experiences from my [resume](Immanuel_Chia_Qi_Xiang_Resume.pdf) <br>
